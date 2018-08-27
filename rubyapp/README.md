@@ -8,4 +8,3 @@ The finished application is available within the [completed](https://github.com/
 
 [**The live version is here**](http://gemhunt.swiftype.info).
 
-We have even more guides and documentation. For that, dive into the [App Search Documentation](https://swiftype.com/documentation/app-search/getting-started).
